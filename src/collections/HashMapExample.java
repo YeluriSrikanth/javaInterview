@@ -21,7 +21,7 @@ public class HashMapExample extends Thread {
 
 
         }
-        System.out.println(map.size());
+       //// System.out.println(map.size());
 
 
     }
